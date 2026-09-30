@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Yesenia Isamar Munguia Silva \[23212217]; l23212217@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
