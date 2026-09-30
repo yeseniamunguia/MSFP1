@@ -29,21 +29,21 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 3. Analizar la estabilidad del sistema
 4. Determinar el error en estado estacionario.
 5. Emular la respuesta del circuito RLC en Simulink/Simscape al escalón, impulso, rampa y función sinusoidal.
-6. Sintonizar las ganancias de un controlador PID en Simulink/MATLAB para eliminar el error entre la entrada y la salida del sistema.
+6. Sintonizar las ganancias de un controlador I en Simulink/MATLAB para eliminar el error entre la entrada y la salida del sistema.
 7. Simular la respuesta del sistema en lazo abierto y lazo cerrado en Simulink/MATLAB al escalón, impulso, rampa y función sinusoidal.
-8. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en Spyder/Python con la función de transferencia.
+8. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador I en Python con la función de transferencia.
 
 ## Descripción detallada del sistema
 
 En esta práctica se presenta un circuito RLC de segundo orden, el sistema es estable con una respuesta sobreamortiguada, un error en estado estacionario de 0.5 V y un transitorio que depende directamente de los valores elegidos para el conjunto de resistencias R y la capacitancia del capacitor C de la segunda malla.
 
-Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo matemático; Simulaciones numéricas.
+Palabras clave: Circuito RLC; Controlador I; Sistema respiratorio; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno computacional de MATLAB \[.mlx].
 2. Modelo de Simulink \[.slx].
-3. Archivos de Spyder \[.py].
+3. Archivos \[.py].
 4. Imagen con los parámetros del controlador.
 5. Imágenes de las simulaciones \[.pdf y .png].
 6. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
